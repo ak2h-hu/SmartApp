@@ -1,0 +1,4 @@
+date numPeople tempSetpoint tempOutside precip
+10-10-2026 3 21.0 10.5 0.0
+11-10-2026 2 20.0 2.0 4.5
+12-10-2026 5 22.0 15.0 1.0
